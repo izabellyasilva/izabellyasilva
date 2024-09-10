@@ -5,9 +5,8 @@ Meu nome é Izabelly Cristina
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha oragnição e compartilhamento dos meus projetos desenvolvidos
 
- ### Pra você entrar em contato comigo 📪
+### Pra voce etrar em contato comigo 
 
+@izabellyasilva
  
- 
-@oii
-
+ ![](https://media1.tenor.com/m/0AwDEsKtn_0AAAAC/grayson-pierce-stiles.gif)
